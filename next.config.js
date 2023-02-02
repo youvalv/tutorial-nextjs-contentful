@@ -4,6 +4,7 @@ const nextConfig = {
   swcMinify: true,
   images: {
     domains: ['images.ctfassets.net'],
+    unoptimized: true,
   },
 };
 
